@@ -151,7 +151,7 @@ The same business problem has been solved using multiple analytics tools to demo
 
 The dataset used in this project is included in the repository.
 
-📥 **Download Dataset:** `Dataset.zip`
+📥 [Download Dataset](Datasets.zip)
 
 > Note: If GitHub cannot preview the ZIP file directly, download and extract it to access the dataset.
 
